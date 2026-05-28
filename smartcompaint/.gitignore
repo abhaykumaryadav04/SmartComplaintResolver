@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+# Application Secrets
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# Environment Variables
+.env
+
+# Logs
+*.log
